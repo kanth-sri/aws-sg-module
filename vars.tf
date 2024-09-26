@@ -1,7 +1,7 @@
 variable "project" {
   type = string
 }
-variable "environmnet" {
+variable "environment" {
   type = string
 }
 variable "vpc_id" {
